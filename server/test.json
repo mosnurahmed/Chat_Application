@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "email": "mosnur@gmail.com",
+      "password": "$2a$10$BJug4.9EDw9bbBYPaV6XGu9otg4agR/WqupFnZeVJl0LXod9LkN6O",
+      "name": "Mosnur",
+      "id": 1
+    },
+    {
+      "email": "sorna@gmail.com",
+      "password": "$2a$10$7GRgPyVYhAfXsk24rsNftetgnpiMNFF7AEgACVgCP0B2FN.y3ioyu",
+      "name": "Sorna",
+      "id": 2
+    },
+    {
+      "email": "rithen@gmail.com",
+      "password": "$2a$10$TjlhyH6YLJ9AHVUupFQIreq3VVfZ9ubdIBjsywQseGSV/YBdTjcKG",
+      "name": "Rithen",
+      "id": 3
+    }
+  ]
+}
